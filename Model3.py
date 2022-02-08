@@ -1,4 +1,4 @@
-from keras.layers import Input, Lambda, Dense, Flatten
+from keras import Input, Lambda, Dense, Flatten
 from keras.models import Model
 #from keras.applications.resnet50 import ResNet50
 from PIL import Image, ImageChops
